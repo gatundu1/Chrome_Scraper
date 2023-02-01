@@ -1,0 +1,10 @@
+{
+  "name": "Chrome Scraper",
+  "version": "1.0",
+  "description": "Scrape email and data from webpages!",
+  "manifest_version": 3,
+  "action": {
+    "default_popup":"popup.html"
+  },
+  "permissions": ["activeTab", "scripting"]
+}
